@@ -16,7 +16,7 @@ export async function fetchRevenue() {
   // This is equivalent to in fetch(..., {cache: 'no-store'}).
   noStore();
   try {
-    // Artificially delay a response for demo purposes.
+    // Artificially delay a response for demCollectedo purposes.
     // Don't do this in production :)
 
      console.log('Fetching revenue data...');
